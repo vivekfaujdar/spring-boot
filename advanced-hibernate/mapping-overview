@@ -1,0 +1,6 @@
+advanced mappings
+  1. collections: list, set, map (including sorted version)
+  2. components: @Embedded and @ embedded
+  3. Enums
+  4. inheritance
+  
